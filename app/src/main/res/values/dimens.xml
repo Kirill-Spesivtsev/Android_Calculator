@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="mainButtonTextSize">40sp</dimen>
-    <dimen name="secondaryButtonTextSize">30sp</dimen>
+    <dimen name="mainButtonTextSize">25dp</dimen>
+    <dimen name="secondaryButtonTextSize">20dp</dimen>
     <dimen name="expressionTextSize">40sp</dimen>
     <dimen name="resultTextSize">35sp</dimen>
+    <dimen name="buttonTopMargin">10dp</dimen>
+    <dimen name="buttonBottomMargin">10dp</dimen>
+    <dimen name="buttonLeftMargin">10dp</dimen>
+    <dimen name="buttonRightMargin">10dp</dimen>
 </resources>
